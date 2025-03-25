@@ -1,0 +1,125 @@
+{
+  "destinations": [
+    {
+      "id": 1,
+      "name": "Paris",
+      "country": "France",
+      "description": "The city of lights and love, home to the Eiffel Tower and world-class cuisine.",
+      "image": "https://via.placeholder.com/300x200?text=Paris",
+      "rating": 4.8
+    },
+    {
+      "id": 2,
+      "name": "Kyoto",
+      "country": "Japan",
+      "description": "A city blending ancient temples with stunning cherry blossoms and modern culture.",
+      "image": "https://via.placeholder.com/300x200?text=Kyoto",
+      "rating": 4.7
+    },
+    {
+      "id": 3,
+      "name": "New York",
+      "country": "USA",
+      "description": "A bustling metropolis known for Times Square, Broadway, and iconic skyscrapers.",
+      "image": "https://via.placeholder.com/300x200?text=New+York",
+      "rating": 4.6
+    },
+    {
+      "id": 4,
+      "name": "Santorini",
+      "country": "Greece",
+      "description": "Famous for its white-washed buildings, blue domes, and breathtaking sunsets.",
+      "image": "https://via.placeholder.com/300x200?text=Santorini",
+      "rating": 4.9
+    },
+    {
+      "id": 5,
+      "name": "Machu Picchu",
+      "country": "Peru",
+      "description": "An ancient Incan city nestled in the Andes, offering stunning mountain views.",
+      "image": "https://via.placeholder.com/300x200?text=Machu+Picchu",
+      "rating": 4.9
+    },
+    {
+      "id": 6,
+      "name": "Venice",
+      "country": "Italy",
+      "description": "A unique floating city with canals, gondolas, and historic architecture.",
+      "image": "https://via.placeholder.com/300x200?text=Venice",
+      "rating": 4.7
+    },
+    {
+      "id": 7,
+      "name": "Bali",
+      "country": "Indonesia",
+      "description": "A tropical paradise with lush jungles, beaches, and vibrant culture.",
+      "image": "https://via.placeholder.com/300x200?text=Bali",
+      "rating": 4.8
+    },
+    {
+      "id": 8,
+      "name": "Cape Town",
+      "country": "South Africa",
+      "description": "A coastal city with stunning mountains, beaches, and rich history.",
+      "image": "https://via.placeholder.com/300x200?text=Cape+Town",
+      "rating": 4.6
+    },
+    {
+      "id": 9,
+      "name": "Reykjavik",
+      "country": "Iceland",
+      "description": "A gateway to the Northern Lights, geysers, and volcanic landscapes.",
+      "image": "https://via.placeholder.com/300x200?text=Reykjavik",
+      "rating": 4.8
+    },
+    {
+      "id": 10,
+      "name": "Petra",
+      "country": "Jordan",
+      "description": "An ancient archaeological wonder carved into rose-red cliffs.",
+      "image": "https://via.placeholder.com/300x200?text=Petra",
+      "rating": 4.7
+    },
+    {
+      "id": 11,
+      "name": "Bangkok",
+      "country": "Thailand",
+      "description": "A vibrant city with floating markets, ornate temples, and street food.",
+      "image": "https://via.placeholder.com/300x200?text=Bangkok",
+      "rating": 4.5
+    },
+    {
+      "id": 12,
+      "name": "Rio de Janeiro",
+      "country": "Brazil",
+      "description": "Famous for its Carnival, Christ the Redeemer statue, and stunning beaches.",
+      "image": "https://via.placeholder.com/300x200?text=Rio+de+Janeiro",
+      "rating": 4.8
+    },
+    {
+      "id": 13,
+      "name": "Prague",
+      "country": "Czech Republic",
+      "description": "A fairy-tale city with medieval architecture, a historic castle, and vibrant nightlife.",
+      "image": "https://via.placeholder.com/300x200?text=Prague",
+      "rating": 4.7
+    },
+    {
+      "id": 14,
+      "name": "Sydney",
+      "country": "Australia",
+      "description": "Home to the Sydney Opera House, stunning beaches, and the iconic Harbour Bridge.",
+      "image": "https://via.placeholder.com/300x200?text=Sydney",
+      "rating": 4.6
+    },
+    {
+      "id": 15,
+      "name": "Dubai",
+      "country": "UAE",
+      "description": "A futuristic city known for its skyscrapers, luxury shopping, and desert adventures.",
+      "image": "https://via.placeholder.com/300x200?text=Dubai",
+      "rating": 4.7
+    }
+  ],
+  "wishlist": []
+}

@@ -2,9 +2,9 @@
 </script>
 
 <template>
-  <nav class="w-full flex flex-row justify-between font-display px-10 py-4 mb-10 border-b border-indigo-900">
-    <div class="text-4xl font-bold">
-      TRAVEL WISHLIST
+  <nav class="w-full flex flex-row justify-between px-10 py-4 mb-10 border-b border-indigo-900">
+    <div class="text-4xl font-bold font-display">
+      Travel Wishlist
     </div>
     <div class="flex flex-row justify-between w-1/3 items-center">
       <RouterLink to="/">Home</RouterLink>
